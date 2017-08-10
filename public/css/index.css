@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    color: brown;
+    text-shadow: -1px 0 #35DF53, 1px 0 #35DF53, 1px 0 #35DF53, -1px 0 #35DF53;
+}
+
+h4 {
+    font-weight: 700;
+}
